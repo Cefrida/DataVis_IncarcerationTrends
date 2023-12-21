@@ -4,4 +4,4 @@ This class, Data Visualization (Data 201), was taken during my junior year (Fall
 
 This project combines several visualizations made using Tableau. 
 
-The link to this site can be found here: https://sites.google.com/view/incarcerationtrends/examining-incarceration-trends-in-the-us. 
+The link to this site can be found here: [https://sites.google.com/view/incarcerationtrends/examining-incarceration-trends-in-the-us](https://sites.google.com/view/incarcerationtrends/home?authuser=0)https://sites.google.com/view/incarcerationtrends/home?authuser=0. 
